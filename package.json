@@ -1,7 +1,7 @@
 {
-  "name": "Here!",
+  "name": "here!",
   "version": "1.0.0",
-  "description": "",
+  "browswerlist": ">0.25%, not dead",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
@@ -9,6 +9,8 @@
   "author": "Simon Pinkas",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.8.2"
-  }
+    "parcel": "^2.11.0"
+  },
+  "keywords": [],
+  "description": ""
 }
